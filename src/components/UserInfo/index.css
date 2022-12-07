@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.user-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.img {
+  height: 100px;
+}
+.name {
+  font-size: 20px;
+  color: #12022f;
+}
+.role {
+  font-size: 15px;
+  color: #9aa5b1;
+  font-weight: bold;
+}

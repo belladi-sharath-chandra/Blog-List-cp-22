@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.list {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.post {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #12022f;
+}
+.date {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #616e7c;
+  margin-left: auto;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+}
